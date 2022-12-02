@@ -1,0 +1,386 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+
+.footer{   
+    text-align: center;
+    margin-top: 300px;
+}
+
+div.textoFooter{
+    opacity: 0.2;
+    font-family: 'Almarai', sans-serif;
+    margin-top: 20px;
+    text-align: center;
+}
+
+div.titulo2{
+    font-family: 'Bebas Neue', cursive;
+    margin-top: 100px;
+    margin-bottom: 20px; 
+    font-size: 30px;
+    text-align: center
+}
+
+div.texto2{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 150px;
+    font-size: 20px;
+}
+
+div.imageness1{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 rgb(52, 0, 101),0 6px 20px 0 rgb(55, 0, 106) ;
+    float: left;
+    width: 200px;
+    height: 250px;
+    margin-left: 200px;
+}
+
+div.imageness2{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 rgb(52, 0, 101),0 6px 20px 0 rgb(55, 0, 106) ;
+    float: left;
+    width: 200px;
+    height: 250px;
+    margin-left: 200px;
+}
+
+div.imageness3{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 rgb(52, 0, 101),0 6px 20px 0 rgb(55, 0, 106) ;
+    float: left;
+    width: 200px;
+    height: 250px;
+    margin-left: 200px;
+}
+
+div.imageness4{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 rgb(52, 0, 101),0 6px 20px 0 rgb(55, 0, 106) ;
+    float: left;
+    width: 200px;
+    height: 250px;
+    margin-left: 200px;
+}
+
+div.imageness5{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 rgb(52, 0, 101),0 6px 20px 0 rgb(55, 0, 106) ;
+    float: left;
+    width: 200px;
+    height: 250px;
+    margin-left: 200px;
+}
+
+div.imageness6{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 rgb(52, 0, 101),0 6px 20px 0 rgb(55, 0, 106) ;
+    float: left;
+    width: 200px;
+    height: 250px;
+    margin-left: 200px;
+}
+
+.titulo3{
+    font-family: 'Bebas Neue', cursive;
+    margin-top: 100px;
+    margin-bottom: 30px; 
+    font-size: 30px;
+    text-align: center;
+
+}
+
+div.imagenesss1{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 rgb(52, 0, 101),0 6px 20px 0 rgb(55, 0, 106) ;
+    float: left;
+    width: 300px;
+    height: 350px;
+    margin-left: 265px;
+}
+
+div.imagenesss2{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 rgb(52, 0, 101),0 6px 20px 0 rgb(55, 0, 106) ;
+    float: left;
+    width: 300px;
+    height: 350px;
+    margin-left: 265px;
+}
+
+div.imagenesss3{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 rgb(52, 0, 101),0 6px 20px 0 rgb(55, 0, 106) ;
+    float: left;
+    width: 300px;
+    height: 350px;
+    margin-left: 265px;
+    margin-bottom: 10px;
+}
+
+div.imagenesss4{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 rgb(52, 0, 101),0 6px 20px 0 rgb(55, 0, 106) ;
+    float: left;
+    width: 300px;
+    height: 350px;
+    margin-left: 265px;
+}
+
+div.imagenesss5{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 rgb(52, 0, 101),0 6px 20px 0 rgb(55, 0, 106) ;
+    float: left;
+    width: 300px;
+    height: 350px;
+    margin-left: 265px;
+}
+
+div.imagenesss6{
+    margin: 10px 20px;
+    box-shadow: 0 4px 8px 0 rgb(52, 0, 101),0 6px 20px 0 rgb(55, 0, 106) ;
+    float: left;
+    width: 300px;
+    height: 350px;
+    margin-left: 265px;
+    
+}
+
+div.texttend{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+div.titulocons{
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    margin-top: 100px;
+    margin-bottom: 100px; 
+    font-size: 40px;
+    text-align: center;
+}
+
+div.titulocons1{
+    font-family: 'Bebas Neue', cursive;
+    margin-top: 100px;
+    margin-bottom: 20px; 
+    font-size: 20px;
+    text-align: center;
+}
+
+div.textocons1{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+div.subtexto1{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 150px;
+    font-size: 15px;
+}
+
+div.titulocons2{
+    font-family: 'Bebas Neue', cursive;
+    margin-top: 100px;
+    margin-bottom: 20px; 
+    font-size: 20px;
+    text-align: center;
+}
+
+div.textocons2{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+div.subtexto2{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 15px;
+}
+
+div.subbtexto2{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 15px;
+}
+
+div.titulocons3{
+    font-family: 'Bebas Neue', cursive;
+    margin-top: 100px;
+    margin-bottom: 20px; 
+    font-size: 20px;
+    text-align: center;
+}
+
+div.textocons3{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+div.subtexto3{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 15px;
+}
+
+div.subbtexto3{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 15px;
+}
+
+div.subbbtexto3{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 15px;
+}
+
+div.cuenta{
+    font-family: 'Bebas Neue', cursive;
+    margin-top: 100px;
+    margin-bottom: 20px; 
+    font-size: 20px;
+}
+
+div.acceder{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 20px;
+}div.nombre1{
+    margin-bottom: 10px;
+}
+
+div.contraseña1{
+    margin-bottom: 10px;
+}
+
+div.enviar1{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+div.registrarse{
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+div.nombre2{
+    margin-bottom: 10px;
+}
+
+div.apellido{
+    margin-bottom: 10px;
+}
+
+div.email2{
+    margin-bottom: 10px;
+}
+
+div.contraseña2{
+    margin-bottom: 10px;
+}
+
+div.enviar2{
+    margin-top: 30px;
+}
+
+div.subtitulo1{
+    text-align: center;
+    margin-top: 50px;
+    color: aliceblue;
+}
+
+div.container{
+    
+    text-align: center;
+    margin-top: 80px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+h1{
+    color: rgb(108, 0, 209);
+    font-family: 'Bebas Neue', cursive;
+}
+
+h2{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+ul{
+    list-style: none;
+}
+
+form{
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+
+
+div.cuenta{
+    text-align: center;
+}
+
+div.isesion{
+    text-align: center;
+}
+
+.carrusel{
+    width: 400px;
+    margin: auto;
+}
+
+.carrusel2{
+    width: 400px;
+    margin: auto;   
+}
+
+.carrusel3{
+    width: 400px;
+    margin: auto; 
+    margin-bottom: 30px;
+}
+
+
+
+
